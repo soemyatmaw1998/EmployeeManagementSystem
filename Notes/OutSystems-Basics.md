@@ -7,23 +7,13 @@ Web & Mobile apps
 Uses Entities (DB), Screens (UI), Logic (Actions)
 Used by enterprise companies (banks, insurance, government)
 
-② Project Overview 
-3️⃣ Core Components in OutSystems
-
-OutSystems has 4 important parts (VERY IMPORTANT for exam & interview):
-
+② Core Components in OutSystems
+OutSystems has 4 important parts:
 1. Entity (Database Table)
-
 → Like SQL table
-
 2. Screens
-
 → UI pages (list, form, details)
-
 3. Actions
-
 → Business logic (like methods / functions)
-
 4. Variables
-
 → Store temporary data (like Java variables)
